@@ -20,7 +20,7 @@ Set Up the React Native Environment *Install React Native CLI: npm install -g re
 
 Install Required Packages *Install essential libraries: npm install axios react-navigation react-navigation-stack *For icons, install react-native-vector-icons: npm install react-native-vector-icons
 
-Set Up API Integration with OpenWeatherMap *In your new app directory, create a .env file to store your API key: REACT_APP_API_KEY=5ff1d84eec9490755344be081a337794
+Set Up API Integration with OpenWeatherMap *In your new app directory, create a .env file to store your API key: REACT_APP_API_KEY=////my API Key
 
 Running the App *For Web Navigate to the WeatherForecastApp-web directory: cd WeatherForecastApp-web Run the web app: npm start
 
